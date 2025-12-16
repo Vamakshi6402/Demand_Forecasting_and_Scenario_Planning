@@ -45,8 +45,13 @@ The analysis is implemented in Python using pandas, numpy, statsmodels, scikit-l
 ## Repository Structure
 The repository includes a data folder containing the demand time series, a notebooks folder containing the SARIMA forecasting notebook, an outputs folder containing generated plots and metrics, and this README file documenting the project.
 
+---
+
 ## Notes
 This project emphasizes interpretability, validation discipline, and decision relevance over model complexity. The approach is intentionally transparent and reproducible to support economist-style communication and review.
 
+---
+
 ## Author
-Vamakshi Chaturvedi | Economics | Forecasting | Decision Support
+**Vamakshi Chaturvedi**  
+Economist | Experimentation & Causal Inference
