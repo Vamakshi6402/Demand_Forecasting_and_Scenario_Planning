@@ -5,7 +5,7 @@ This project demonstrates end-to-end demand forecasting with uncertainty quantif
 
 ---
 
-**Business Context**
+## Business Context
 Accurate demand forecasts are necessary but insufficient for decision-making under uncertainty. This project focuses on producing reliable short-horizon forecasts, quantifying forecast uncertainty using prediction intervals, stress-testing outcomes under alternative demand scenarios, and converting results into actionable planning insights. The workflow mirrors real-world economist contributions in operations, supply chain, and planning teams.
 
 ---
