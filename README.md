@@ -21,7 +21,9 @@ Exploratory time series analysis examines trend, seasonality, autocorrelation (A
 ---
 
 ## Outputs
-The project produces a forecast plot with prediction intervals, a table of error metrics, and a scenario comparison plot. All outputs are saved in the outputs/ directory as forecast_plot.png, metrics.csv, and scenarios.png.
+The project produces a forecast plot with prediction intervals, a table of error metrics, and a scenario comparison plot. All outputs are saved in the outputs/ directory as forecast_plot.png, metrics.csv, and scenarios.png. 
+
+The outputs folder contains machine-readable forecast evaluation artifacts generated directly from the notebook
 
 ---
 
